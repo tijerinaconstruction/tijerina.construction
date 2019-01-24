@@ -1,0 +1,4 @@
+name: tijerinaconstruction
+recipe: wordpress
+config:
+  webroot: .
